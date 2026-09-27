@@ -1,2 +1,5 @@
 langgraph==1.2.12
 langgraph-cli[inmem]==0.4.32
+langchain-openai>=0.3.0
+langchain-core>=0.3.0
+python-dotenv>=1.0.0
